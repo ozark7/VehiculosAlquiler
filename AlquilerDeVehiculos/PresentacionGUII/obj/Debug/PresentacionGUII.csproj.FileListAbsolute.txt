@@ -1,0 +1,40 @@
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\PresentacionGUII.exe.config
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\PresentacionGUII.exe
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\PresentacionGUII.pdb
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.csproj.AssemblyReference.cache
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.FrmPrincipal.resources
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.Properties.Resources.resources
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.csproj.GenerateResource.cache
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.csproj.CoreCompileInputs.cache
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.exe
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.pdb
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.IngresoVehiculos.resources
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Datos.dll
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Entidades.dll
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Logica.dll
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Datos.pdb
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Entidades.pdb
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Logica.pdb
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.csproj.CopyComplete
+C:\Users\rexyl\OneDrive\Escritorio\EJERCICIOS DE PROGRAMACION 3\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.IngresarPersona.resources
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\PresentacionGUII.exe.config
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\PresentacionGUII.exe
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\PresentacionGUII.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Datos.dll
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Entidades.dll
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Logica.dll
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Datos.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Entidades.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\bin\Debug\Logica.pdb
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.FrmPrincipal.resources
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.IngresarPersona.resources
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.IngresoVehiculos.resources
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.Properties.Resources.resources
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.csproj.CopyComplete
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.exe
+C:\Users\usuario\Downloads\Telegram Desktop\AlquilerDeVehiculos\AlquilerDeVehiculos\PresentacionGUII\obj\Debug\PresentacionGUII.pdb
